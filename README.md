@@ -1,5 +1,6 @@
 # nuxt-kdbak
-
+Due to Heroku removing free dynos, I'm making the KPOP API public and I may be receving support to matain it, best regards
+https://evening-savannah-98320.herokuapp.com/api
 ## Build Setup
 
 ```bash
